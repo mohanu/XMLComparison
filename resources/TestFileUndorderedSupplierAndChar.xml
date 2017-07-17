@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<instance>
+   <service>
+   		<supplierService>
+   			<id>20</id>
+   			<character>
+      			<name>TRUNK</name>
+      			<value>BROWN</value>
+   			</character>
+   			<character>
+      			<name>LEAF</name>
+      			<value>GREEN</value>
+   			</character>
+   		</supplierService>
+   		<supplierService>
+   			<id>10</id>
+   			<character>
+      			<name>CLOUD</name>
+      			<value>WHITE</value>
+   			</character>
+   			<character>
+      			<name>SKY</name>
+      			<value>BLUE</value>
+   			</character>
+   		</supplierService>
+   </service>
+   <character>
+      <name>RED_INDICTOR</name>
+      <value>YES</value>
+   </character>
+   <character>
+      <name>PURPLE_INDICTOR</name>
+      <value>YES</value>
+   </character>
+   <character>
+      <name>GREEN_INDICTOR</name>
+      <value>YES</value>
+   </character>
+   <character>
+      <name>ORANGE_INDICTOR</name>
+      <value>NO</value>
+   </character>
+</instance>
